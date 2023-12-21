@@ -1,0 +1,10 @@
+{
+  "Changes": [
+    {
+      "Logname": "Load_tilesheets",
+      "Action": "Load",
+      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_plants, Maps/_sc_building_set",
+      "FromFile": "assets/png/{{TargetWithoutPath}}.png"
+    }
+  ]
+}

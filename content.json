@@ -1,0 +1,60 @@
+{
+  "Format": "1.29.3",
+  //"CustomLocations": [],
+  "DynamicTokens": [
+    {
+      "Name": "CurrentSeason",
+      "Value": "spring",
+      "When": {
+        "Season": "Spring"
+      }
+    },
+    {
+      "Name": "CurrentSeason",
+      "Value": "summer",
+      "When": {
+        "Season": "Summer"
+      }
+    },
+    {
+      "Name": "CurrentSeason",
+      "Value": "fall",
+      "When": {
+        "Season": "Fall"
+      }
+    },
+    {
+      "Name": "CurrentSeason",
+      "Value": "fall",
+      "When": {
+        "Season": "Fall"
+      }
+    },
+    {
+      "Name": "CurrentSeason",
+      "Value": "winter",
+      "When": {
+        "Season": "Winter"
+      }
+    }
+  ],
+  "CustomLocations": [
+    {
+      "Logname": "Add_Custom_nmtestroom",
+      "Name": "Custom_nmtestroom",
+      "FromMapFile": "assets/tmx/testroom.tmx"
+    },
+    {
+      "Logname": "Add_Custom_nmnpcroom",
+      "Name": "Custom_nmnpcroom",
+      "FromMapFile": "assets/tmx/npcroom.tmx"
+    }
+  ],
+  "Changes": [
+    {
+      "LogName": "Include_Data",
+      "Action": "Include",
+      "FromFile": "assets/ImageData.json"
+    }
+  ]
+}
