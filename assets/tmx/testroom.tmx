@@ -9,22 +9,22 @@
  <tileset firstgid="4357" name="2" tilewidth="16" tileheight="16" tilecount="1536" columns="16">
   <image source="_sc_dinamic_plants.png" width="256" height="1536"/>
  </tileset>
- <tileset firstgid="5893" name="3" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
+ <tileset firstgid="5893" name="3" tilewidth="16" tileheight="16" tilecount="4356" columns="18">
+  <image source="_sc_dinamic_interiors.png" width="288" height="3880"/>
  </tileset>
  <layer id="1" name="Back" width="50" height="40">
   <data encoding="base64" compression="zlib">
-   eJztwwENAAAMAiBbvH86axjksNFLqqqqqqqqqqrPD+JNwMo=
+   eJzt1LENwCAMRFGK7IBXgxVg6MyQCUJ7haUUVhyi/6Sr3Lj6pQAAAADPnXWvea661zyH7TVPW7cevBa4bvqjZ6zbDN4I3DT98e+y+0OvVHZ/6JWiV9+S3R96pbL7Q68UvQIAAG+7AQZClNo=
   </data>
  </layer>
  <layer id="22" name="Back2" width="50" height="40">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAYH0AAAQ==
+   eJzt1FEJACAMQMFVMIb9C5pAmD+OjTt4FV4EAAA/7GbdrGYB76r/41dAVvV//AoAAOY5jOId6Q==
   </data>
  </layer>
  <layer id="5" name="Buildings" width="50" height="40">
   <data encoding="base64" compression="zlib">
-   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
+   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
   </data>
  </layer>
  <layer id="21" name="Buildings2" width="50" height="40">
