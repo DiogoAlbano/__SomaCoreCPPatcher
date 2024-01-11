@@ -31,8 +31,8 @@
     <Content Include="assets\MapData.json" />
     <Content Include="assets\png\_sc_blank_tilesheet.png" />
     <Content Include="assets\png\_sc_building_set.png" />
-    <Content Include="assets\png\_sc_dinamic_crops.png" />
-    <Content Include="assets\png\_sc_dinamic_interiors.png" />
+    <Content Include="assets\png\_sc_dinamic_growing_plants.png" />
+    <Content Include="assets\png\_sc_dinamic_objects.png" />
     <Content Include="assets\tmx\npcroom.tmx" />
     <Content Include="assets\tmx\testroom.tmx" />
     <Content Include="content.json" />
