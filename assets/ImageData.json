@@ -3,18 +3,18 @@
     {
       "Logname": "Load_tilesheets",
       "Action": "Load",
-      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dinamic_objects",
+      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dinamic_objects, Maps/_sc_shadows",
       "FromFile": "assets/png/{{TargetWithoutPath}}.png"
-    },
-    {
-      "Logname": "Set_Sit_Tiles",
-      "Action": "EditData",
-      "Target": "Data/ChairTiles",
-      "Entries": {
-        "_sc_dinamic_interiors/17/0": "1/1/down/chair/-1/-1/false",
-        "_sc_dinamic_interiors/16/1": "1/1/right/chair/-1/-1/false",
-        "_sc_dinamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
-      }
-    }
+    }//,
+    //{
+      //"Logname": "Set_Sit_Tiles",
+      //"Action": "EditData",
+      //"Target": "Data/ChairTiles",
+      //"Entries": {
+        //"_sc_dinamic_interiors/17/0": "1/1/down/chair/-1/-1/false",
+        //"_sc_dinamic_interiors/16/1": "1/1/right/chair/-1/-1/false",
+        //"_sc_dinamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
+      //}
+    //}
   ]
 }
