@@ -3,7 +3,7 @@
     {
       "Logname": "Load_tilesheets",
       "Action": "Load",
-      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dinamic_objects, Maps/_sc_shadows",
+      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dinamic_objects, Maps/_sc_shadows, Maps/_sc_dinamic_landscape",
       "FromFile": "assets/png/{{TargetWithoutPath}}.png"
     }//,
     //{
