@@ -3,7 +3,7 @@
     {
       "Logname": "Load_tilesheets",
       "Action": "Load",
-      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dinamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dinamic_objects, Maps/_sc_shadows, Maps/_sc_dinamic_landscape, Maps/_sc_disease_trees",
+      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dynamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dynamic_objects, Maps/_sc_shadows, Maps/_sc_dynamic_landscape, Maps/_sc_disease_trees",
       "FromFile": "assets/png/{{TargetWithoutPath}}.png"
     }//,
     //{
@@ -11,9 +11,9 @@
       //"Action": "EditData",
       //"Target": "Data/ChairTiles",
       //"Entries": {
-        //"_sc_dinamic_interiors/17/0": "1/1/down/chair/-1/-1/false",
-        //"_sc_dinamic_interiors/16/1": "1/1/right/chair/-1/-1/false",
-        //"_sc_dinamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
+        //"_sc_dynamic_interiors/17/0": "1/1/down/chair/-1/-1/false",
+        //"_sc_dynamic_interiors/16/1": "1/1/right/chair/-1/-1/false",
+        //"_sc_dynamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
       //}
     //}
   ]
