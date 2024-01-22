@@ -34,6 +34,7 @@
     <Content Include="assets\png\_sc_dynamic_growing_plants.png" />
     <Content Include="assets\png\_sc_dynamic_landscape.png" />
     <Content Include="assets\png\_sc_dynamic_objects.png" />
+    <Content Include="assets\png\_sc_seasonal_assets.png" />
     <Content Include="assets\tmx\npcroom.tmx" />
     <Content Include="assets\tmx\testroom.tmx" />
     <Content Include="content.json" />
