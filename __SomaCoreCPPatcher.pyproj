@@ -31,10 +31,13 @@
     <Content Include="assets\MapData.json" />
     <Content Include="assets\png\_sc_blank_tilesheet.png" />
     <Content Include="assets\png\_sc_building_set.png" />
+    <Content Include="assets\png\_sc_disease_trees.png" />
+    <Content Include="assets\png\_sc_doors.png" />
     <Content Include="assets\png\_sc_dynamic_growing_plants.png" />
     <Content Include="assets\png\_sc_dynamic_landscape.png" />
     <Content Include="assets\png\_sc_dynamic_objects.png" />
     <Content Include="assets\png\_sc_seasonal_assets.png" />
+    <Content Include="assets\png\_sc_shadows.png" />
     <Content Include="assets\tmx\npcroom.tmx" />
     <Content Include="assets\tmx\testroom.tmx" />
     <Content Include="content.json" />
