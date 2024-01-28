@@ -5,16 +5,56 @@
       "Action": "Load",
       "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dynamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dynamic_objects, Maps/_sc_shadows, Maps/_sc_dynamic_landscape, Maps/_sc_disease_trees, Maps/_sc_seasonal_assets",
       "FromFile": "assets/png/{{TargetWithoutPath}}.png"
-    }//,
-    //{
-      //"Logname": "Set_Sit_Tiles",
-      //"Action": "EditData",
-      //"Target": "Data/ChairTiles",
-      //"Entries": {
-        //"_sc_dynamic_interiors/17/0": "1/1/down/chair/-1/-1/false",
-        //"_sc_dynamic_interiors/16/1": "1/1/right/chair/-1/-1/false",
-        //"_sc_dynamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
-      //}
-    //}
+    },
+    {
+      "Logname": "Set_Sit_Tiles",
+      "Action": "EditData",
+      "Target": "Data/ChairTiles",
+      "Entries": {
+        "_sc_dynamic_interiors/16/0": "1/1/left/chair/-1/-1/false"
+      }
+    },
+    {
+      "Logname": "Change_Doors",
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/png/_sc_doors.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 64,
+        "Height": 48
+      },
+      "ToArea": {
+        "X": 512,
+        "Y": 144,
+        "Width": 64,
+        "Height": 48
+      },
+      "When": {
+        "HasMod": "somaraezel.NovoMundoPart1"
+      }
+    },
+    {
+      "Logname": "Change_Doors",
+      "Action": "EditImage",
+      "Target": "Maps/townInterior",
+      "FromFile": "assets/png/_sc_doors.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 16,
+        "Height": 48
+      },
+      "ToArea": {
+        "X": 384,
+        "Y": 16,
+        "Width": 16,
+        "Height": 48
+      },
+      "When": {
+        "HasMod": "somaraezel.NovoMundoPart1"
+      }
+    }
   ]
 }
