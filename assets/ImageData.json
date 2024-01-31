@@ -3,7 +3,7 @@
     {
       "Logname": "Load_tilesheets",
       "Action": "Load",
-      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dynamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dynamic_objects, Maps/_sc_shadows, Maps/_sc_dynamic_landscape, Maps/_sc_disease_trees, Maps/_sc_seasonal_assets",
+      "Target": "Maps/_sc_blank_tilesheet, Maps/_sc_dynamic_growing_plants, Maps/_sc_building_set, Maps/_sc_dynamic_objects, Maps/_sc_shadows, Maps/_sc_dynamic_landscape, Maps/_sc_disease_trees, Maps/_sc_seasonal_assets, Maps/_sc_basicforge, Maps/_sc_advancedforge",
       "FromFile": "assets/png/{{TargetWithoutPath}}.png"
     },
     {
