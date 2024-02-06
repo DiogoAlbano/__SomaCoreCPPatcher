@@ -54,7 +54,7 @@
     {
       "LogName": "Include_Data",
       "Action": "Include",
-      "FromFile": "assets/ImageData.json"
+      "FromFile": "assets/ImageData.json, assets/WeaponData.json"
     }
   ]
 }

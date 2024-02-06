@@ -56,20 +56,6 @@
       "When": {
         "HasMod": "somaraezel.NovoMundoPart1"
       }
-    },
-    {
-      "Logname": "Add_Weapon_Data",
-      "Action": "EditData",
-      "Target": "somaraezel.SomaCore/WeaponDiagrams",
-      "Entries": {
-        "Silver Saber": {
-          "diagramName": "Diagram - Silver Saber",
-          "partType": "vanilla_object",
-          "partName": "567",
-          "resultType": "vanilla_weapon",
-          "resultName": "1"
-        }
-      }
-    }
+    }   
   ]
 }

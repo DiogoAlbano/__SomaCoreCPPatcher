@@ -28,7 +28,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\ImageData.json" />
-    <Content Include="assets\MapData.json" />
+    <Content Include="assets\WeaponData.json" />
     <Content Include="assets\png\_sc_advancedforge.png" />
     <Content Include="assets\png\_sc_basicforge.png" />
     <Content Include="assets\png\_sc_blank_tilesheet.png" />

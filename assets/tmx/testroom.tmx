@@ -63,7 +63,7 @@
  <objectgroup id="6" name="Buildings">
   <object id="36" name="TileData" x="64" y="16" width="16" height="16">
    <properties>
-    <property name="Action" value="scPublicForge"/>
+    <property name="Action" value="scBasicForge"/>
    </properties>
   </object>
  </objectgroup>
