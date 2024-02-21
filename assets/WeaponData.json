@@ -7,10 +7,9 @@
       "Entries": {
         "Silver Saber": {
           "diagramName": "Diagram - Silver Saber",
-          "partType": "vanilla_object",
-          "partName": "567",
-          "resultType": "vanilla_weapon",
-          "resultName": "1"
+          "partName": "Parts - Silver Saber",
+          "resultName": "Silver Saber",
+          "vanillaID": 1
         }
       }
     }
